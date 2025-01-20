@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on:
   - Building a Delta Robot at my day job.
-  - New skills to potentially make a career change.
-  - Being the best Dad and Husband I can be.
+  - New software development skills.
+  - Being the best Dad, Husband, and Engineer I can be.
 - 🌱 I’m currently learning:
   - Full-Stack Development/Engineering, via a curse on CodeCademy.
     - HTML
