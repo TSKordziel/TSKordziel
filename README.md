@@ -3,7 +3,7 @@
 
 I’m a backend-focused software engineer transitioning from mechanical engineering, with hands-on experience designing, deploying, and owning **production database-driven systems end-to-end**. I build software the same way I approach engineering problems: start with solid foundations, model the system carefully, and optimize for correctness, maintainability, and long-term use.
 
-My background includes independently designing and maintaining a **MySQL-based ERP system used daily by 100+ users** in an environment with no in-house software engineering support. That experience shaped how I think about backend systems, data modeling, APIs, and reliability under real-world constraints.
+My background includes independently designing and maintaining a **MySQL-based ERP system used daily by dozens of users** in an environment with no in-house software engineering support. That experience shaped how I think about backend systems, data modeling, APIs, and reliability under real-world constraints.
 
 ---
 
